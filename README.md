@@ -15,7 +15,8 @@ Python 3.10.7
 
 1. Install the dependencies
 ```plaintext
-pip3 install -r requireme
+pip3 install -r requirements.txt
+```
 2. Run
 ```plaintext
 python3 main.py
