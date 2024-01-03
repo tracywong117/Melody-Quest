@@ -1,0 +1,6 @@
+joblib==1.3.2
+scipy
+pygame
+libfmp
+scikit-learn==1.2.2
+spacy==3.6
